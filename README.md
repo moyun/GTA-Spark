@@ -2,7 +2,7 @@
 
 This library is an implementation of Yu Liu's academic paper:
 
-  Yu Liu, Kento Emoto, Zhenjiang Hu, A Generate-Test-Aggregate Parallel Programming Library for Systematic Parallel Programming,  Parallel Computing, Available online 10 December 2013, ISSN 0167-8191, Elsevier.
+  **Yu Liu**, Kento Emoto, Zhenjiang Hu, **A Generate-Test-Aggregate Parallel Programming Library for Systematic Parallel Programming**,  Parallel Computing, Available online 10 December 2013, ISSN 0167-8191, Elsevier.
 
 It provides a high performance scalable parallel programming DSL so-called Generate-Test-Aggregate.
 The source code is under the GNU GPL v2.0 license
